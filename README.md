@@ -16,7 +16,7 @@ Next.js Gaming Store is a modern e-commerce app where users can browse and buy v
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/stoyangalchev/nextjs-gaming-store.git
+git clone https://github.com/stoyangalchev/Nextjs-gaming-store.git
 cd nextjs-gaming-store
 npm install
 npm run dev
