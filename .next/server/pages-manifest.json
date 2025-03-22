@@ -1,6 +1,12 @@
 {
   "/_app": "pages/_app.js",
+  "/api/products/[category]": "pages/api/products/[category].js",
+  "/api/products": "pages/api/products.js",
+  "/cart": "pages/cart.html",
+  "/category/[category]": "pages/category/[category].js",
+  "/": "pages/index.html",
+  "/shop": "pages/shop.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/404": "pages/404.html"
 }
