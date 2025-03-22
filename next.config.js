@@ -3,4 +3,7 @@ module.exports = {
     domains: ["imgur.com"],
   },
   distDir: "build",
+  experimental: {
+    outputFileTracing: true,
+  },
 };
